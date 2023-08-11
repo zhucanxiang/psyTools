@@ -3,3 +3,4 @@ PyMuPDF
 borb
 langchain
 nltk
+Pillow
